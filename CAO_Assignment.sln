@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAO_Assignment", "CAO_Assignment\CAO_Assignment.csproj", "{5E0BDD14-5983-4959-B04A-E7D71D74A215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0BDD14-5983-4959-B04A-E7D71D74A215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0BDD14-5983-4959-B04A-E7D71D74A215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0BDD14-5983-4959-B04A-E7D71D74A215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0BDD14-5983-4959-B04A-E7D71D74A215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA66811C-6D7A-4A96-BA8C-DAD7C526E119}
+	EndGlobalSection
+EndGlobal
